@@ -1,10 +1,10 @@
-# DOTEC ÖU
+# DOTEC ÖU / DOTEC LLC
 
 ### Dotec.pt - Stress-free online solutions
 
 #### ABOUT
 
-Dotec is a technology and development company, based in Estonia and Portugal, with the purpose of providing 360º services and stress-free solutions. We work in the areas of online store development, institutional websites, marketing, branding and apps.
+Dotec is a technology and development company, based in Estonia, United States and Portugal, with the purpose of providing 360º services and stress-free solutions. We work in the areas of online store development, institutional websites, marketing, branding and apps.
 
 #### CONTACTS
 
